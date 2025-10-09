@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Tamsil Salim Sarnobat
 
-🎓 I’m a 3rd Year BCA student from Regal College Of Technology, Kondhe Chiplun  
+🎓 I’m a 3rd Year BCA student from **Regal College of Technology, Kondhe, Chiplun**  
 💻 Passionate about **Web Development** and building interactive web apps.  
-🌱 Currently learning **MERN Stack}**  
+🌱 Currently learning **MERN Stack**  
 🚀 I love creating **projects that solve real-world problems!**
 
 ---
@@ -20,30 +20,28 @@
 ---
 
 ### 💡 About Me
-- 🔭 Working on: **Careerly – a career preparation assistant**  
-- 💬 Ask me about: **Web Development, JavaScript, MERN Stack**
+- 🔭 Working on: **Careerly – A Career Preparation Assistant**  
+- 💬 Ask me about: **Web Development, JavaScript, and MERN Stack**  
+- ⚡ Fun fact: I enjoy learning by building projects more than reading theory!
 
 ---
 
-### 🚀 View My Projects On
-#### 🧠 https://tamsil-sarnobat.github.io/Portfolio/
-
-
+### 🚀 View My Projects
+#### 🌐 [Portfolio Website](https://tamsil-sarnobat.github.io/Portfolio/)
+> A personal portfolio to showcase my projects, skills, and achievements.
 
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tamsil-sarnobat&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=Tamsil-sarnobat&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamsil-sarnobat&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=tamsil-sarnobat&theme=radical)
 
 ---
 
 ### 🌐 Connect with Me
-📫 Email: **tamsilsarnobat57@gmail.com**  
-💼 LinkedIn: https://www.linkedin.com/in/tamsil-sarnobat-65966426a/ 
-
+📫 **Email:** [tamsilsarnobat57@gmail.com](mailto:tamsilsarnobat57@gmail.com)  
+💼 **LinkedIn:** [Tamsil Sarnobat](https://www.linkedin.com/in/tamsil-sarnobat-65966426a/)  
 
 ---
 
 ⭐ *Thanks for visiting my GitHub profile! Have a great day!*
-
