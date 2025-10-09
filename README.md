@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Hi, I'm <span style="color:#00C4FF;">Tamsil Salim Sarnobat</span>  
+# 👋 Hi, I'm Tamsil Salim Sarnobat  
 
-🎓 **3rd Year BCA Student** at *Regal College of Technology, Kondhe, Chiplun*  
-💻 Passionate about **Web Development** and creating interactive web apps.  
-🌱 Currently exploring the **MERN Stack (MongoDB, Express, React, Node.js)**  
-🚀 Love turning ideas into real-world projects that make an impact!
+🎓 I’m a 3rd Year BCA student from **Regal College of Technology, Kondhe, Chiplun**  
+💻 Passionate about **Web Development** and building interactive web apps.  
+🌱 Currently learning **MERN Stack**  
+🚀 I love creating **projects that solve real-world problems!**
 
 ---
 
@@ -24,20 +24,19 @@
 ---
 
 ### 💡 About Me
-- 🔭 Currently building: **Careerly – A Career Preparation Assistant**  
-- 💬 Ask me about: **Web Development, JavaScript, or the MERN Stack**  
-- 🧠 Always curious to learn something new every day!  
-- ⚡ Fun fact: I learn faster when I *build while learning* 🛠️  
+- 🔭 Working on: **Careerly – A Career Preparation Assistant**  
+- 💬 Ask me about: **Web Development, JavaScript, and MERN Stack**  
+- ⚡ Fun fact: I enjoy learning by building projects more than reading theory!
 
 ---
 
-### 🚀 Featured Project
-#### 🌐 [My Portfolio Website](https://tamsil-sarnobat.github.io/Portfolio/)
-> Showcasing my projects, skills, and achievements in a clean, modern layout.
+### 🚀 View My Projects
+#### 🌐 [Portfolio Website](https://tamsil-sarnobat.github.io/Portfolio/)
+> A personal portfolio to showcase my projects, skills, and achievements.
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tamsil-sarnobat&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://streak-stats.demolab.com?user=tamsil-sarnobat&theme=tokyonight" height="160" />
@@ -46,14 +45,11 @@
 ---
 
 ### 🌐 Connect with Me
-<p align="center">
- [![Gmail Badge](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tamsilsarnobat57@gmail.com)
-  <a href="https://www.linkedin.com/in/tamsil-sarnobat-65966426a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="https://tamsil-sarnobat.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white" /></a>
-</p>
+📫 **Email:** [tamsilsarnobat57@gmail.com](mailto:tamsilsarnobat57@gmail.com)  
+💼 **LinkedIn:** [Tamsil Sarnobat](https://www.linkedin.com/in/tamsil-sarnobat-65966426a/)  
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile! Keep coding and stay creative!* 💫
+⭐ *Thanks for visiting my GitHub profile! Have a great day!*
 
 </div>
