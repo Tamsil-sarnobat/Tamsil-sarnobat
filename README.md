@@ -3,8 +3,6 @@
 # 👋 Hi, I'm Tamsil Salim Sarnobat
 
 ### 💻 BCA Student | MERN Stack Developer | Project-Based Learner
-```
-
 
 ---
 
