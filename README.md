@@ -1,11 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Tamsil Salim Sarnobat  
+# 👋 Hi, I'm Tamsil Salim Sarnobat
 
-🎓 I’m a 3rd Year BCA student from **Regal College of Technology, Kondhe, Chiplun**  
-💻 Passionate about **Web Development** and building interactive web apps.  
-🌱 Currently learning **MERN Stack**  
-🚀 I love creating **projects that solve real-world problems!**
+### 💻 BCA Student | MERN Stack Developer | Project-Based Learner
+```
+
 
 ---
 
