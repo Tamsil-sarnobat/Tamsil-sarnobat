@@ -24,9 +24,13 @@
 ---
 
 ### 💡 About Me
-- 🔭 Working on: **Careerly – A Career Preparation Assistant**  
-- 💬 Ask me about: **Web Development, JavaScript, and MERN Stack**  
-- ⚡ Fun fact: I enjoy learning by building projects more than reading theory!
+🔭 Building full-stack web applications with the MERN stack
+
+🌱 Learning through hands-on projects and real-world development
+
+💬 Interested in Web Development, JavaScript, React, Node.js, and MongoDB
+
+⚡ Passionate about turning ideas into practical and user-focused applications
 
 ---
 
@@ -52,4 +56,4 @@
 
 ⭐ *Thanks for visiting my GitHub profile! Have a great day!*
 
-</div>
+</div>                                     
