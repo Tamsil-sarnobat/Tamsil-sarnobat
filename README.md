@@ -1,12 +1,17 @@
+
 <div align="center">
 
 # 👋 Hi, I'm Tamsil Salim Sarnobat
 
 ### 💻 BCA Student | MERN Stack Developer | Project-Based Learner
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tamsil-sarnobat&label=Profile%20Views&color=7B68EE&style=for-the-badge" />
+</p>
+
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
